@@ -1,4 +1,4 @@
-﻿{
+{
     "folders":  [
                     {
                         "path":  ".AL-Go"
@@ -19,7 +19,7 @@
                                           ],
                      "CRS.ObjectNameSuffix":  "CTMPte",
                      "CRS.RemoveSuffixFromFilename":  false,
-                     "CRS.FileNamePattern":  "\u003cObjectNameShort\u003e.\u003cObjectType\u003e.al",
-                     "CRS.FileNamePatternExtensions":  "\u003cObjectNameShort\u003e.\u003cObjectTypeShortPascalCase\u003e.al"
+                     "CRS.FileNamePattern":  "<ObjectNameShort>.<ObjectType>.al",
+                     "CRS.FileNamePatternExtensions":  "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
                  }
 }
