@@ -14,7 +14,7 @@
                                               "${PerTenantExtensionCop}",
                                               "${UICop}"
                                           ],
-                     "CRS.ObjectNameSuffix":  "XXXPte",
+                     "CRS.ObjectNameSuffix":  "CTMPte",
                      "CRS.RemoveSuffixFromFilename":  false,
                      "CRS.FileNamePattern":  "<ObjectNameShort>.<ObjectType>.al",
                      "CRS.FileNamePatternExtensions":  "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
