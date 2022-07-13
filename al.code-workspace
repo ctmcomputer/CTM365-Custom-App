@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "Custom App"
+                    },
+                    {
+                        "path":  "Custom Test App"
                     }
                 ],
     "settings":  {
