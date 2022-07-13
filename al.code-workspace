@@ -1,10 +1,13 @@
-{
+﻿{
     "folders":  [
                     {
                         "path":  ".AL-Go"
                     },
                     {
                         "path":  "Custom App"
+                    },
+                    {
+                        "path":  "Custom Test App"
                     }
                 ],
     "settings":  {
@@ -16,7 +19,7 @@
                                           ],
                      "CRS.ObjectNameSuffix":  "CTMPte",
                      "CRS.RemoveSuffixFromFilename":  false,
-                     "CRS.FileNamePattern":  "<ObjectNameShort>.<ObjectType>.al",
-                     "CRS.FileNamePatternExtensions":  "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
+                     "CRS.FileNamePattern":  "\u003cObjectNameShort\u003e.\u003cObjectType\u003e.al",
+                     "CRS.FileNamePatternExtensions":  "\u003cObjectNameShort\u003e.\u003cObjectTypeShortPascalCase\u003e.al"
                  }
 }
