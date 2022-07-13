@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": ".AL-Go"
+        }
+    ],
+    "settings": {
+        "al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+			"${CodeCop}",
+			"${PerTenantExtensionCop}",
+			"${UICop}"
+		],
+		"CRS.ObjectNameSuffix": "XXXPte",
+		"CRS.RemoveSuffixFromFilename": false,
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectType>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
+    }
+}
