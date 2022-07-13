@@ -1,9 +1,12 @@
-{
+﻿{
     "country":  "de",
     "appFolders":  [
-    ],
+
+                   ],
     "testFolders":  [
-    ],
-    "artifact": "/sandbox/20.3.42673.43608/de",
-    "cacheImageName": "CTM365Image"
+
+                    ],
+    "artifact":  "/sandbox/20.3.42673.43608/de",
+    "cacheImageName":  "CTM365Image",
+    "RepoVersion":  "1.1"
 }
